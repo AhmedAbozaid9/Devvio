@@ -24,6 +24,10 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 
+import blue_gradient from "./blue_gradient.png";
+import pink_gradient from "./pink_gradient.png";
+import grey_gradient from "./grey_gradient.png";
+
 export {
   airbnb,
   bill,
@@ -50,4 +54,7 @@ export {
   people01,
   people02,
   people03,
+  blue_gradient,
+  pink_gradient,
+  grey_gradient,
 };
