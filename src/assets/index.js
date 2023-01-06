@@ -1,5 +1,4 @@
 import airbnb from "./airbnb.png";
-import bill from "./bill.png";
 import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
@@ -12,8 +11,6 @@ import shield from "./Shield.svg";
 import star from "./Star.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import google from "./google.svg";
-import apple from "./apple.svg";
 import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
@@ -23,14 +20,11 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
-
-import blue_gradient from "./blue_gradient.png";
-import pink_gradient from "./pink_gradient.png";
-import grey_gradient from "./grey_gradient.png";
+import server from "./server.svg"
+import time from "./time.svg"
 
 export {
   airbnb,
-  bill,
   binance,
   card,
   coinbase,
@@ -43,8 +37,6 @@ export {
   star,
   menu,
   close,
-  google,
-  apple,
   arrowUp,
   discount,
   facebook,
@@ -54,7 +46,6 @@ export {
   people01,
   people02,
   people03,
-  blue_gradient,
-  pink_gradient,
-  grey_gradient,
+  server,
+  time,
 };

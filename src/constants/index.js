@@ -38,23 +38,21 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
-    content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+    title: "Robust",
+    content: "The best Applications that are robust and easy to use.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
-    content:
-      "We take proactive steps make sure your information and transactions are secure.",
+    content: "All our software has the highest measures of security.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Communication",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "It's never been easier to contact the dev team and get the most out of it.",
   },
 ];
 
