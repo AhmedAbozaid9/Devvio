@@ -1,7 +1,19 @@
 import React from "react";
 
 import styles from "./style";
-import { NavBar, Hero, Stats, Business, Database, Time } from "./components";
+import {
+  NavBar,
+  Hero,
+  Stats,
+  Business,
+  Database,
+  Time,
+  Testimonials,
+  Clients,
+  CTA,
+  Footer,
+} from "./components";
+
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
@@ -21,6 +33,10 @@ const App = () => (
         <Business />
         <Database />
         <Time />
+        <Testimonials />
+        <Clients />
+        <CTA />
+        <Footer />
       </div>
     </div>
   </div>
